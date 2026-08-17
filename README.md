@@ -8,9 +8,17 @@ Lo que me define no es un título: **cierro el ciclo completo**. Diseño, desarr
 
 ## 🌐 Desarrollo web
 
-Mi trabajo principal. Webs para clientes reales, mobile-first, cuidando rendimiento y detalle visual. Entre ellas, una web premium para una inmobiliaria de lujo en la Costa del Sol orientada a compradores internacionales.
+Mi trabajo principal. Webs para clientes reales, mobile-first, cuidando rendimiento y detalle visual.
 
 `HTML` · `CSS` · `JavaScript` · despliegue en servidor propio
+
+**Método Camaleónico** — en producción
+
+https://metodocamaleonico.com
+
+**Urbanyx Homes** — inmobiliaria de lujo en la Costa del Sol, orientada a compradores internacionales. Diseño premium mobile-first. Cerrando últimos detalles con el cliente.
+
+**AmarPPP** — protectora de perros de razas potencialmente peligrosas. Cerrando últimos detalles con el cliente.
 
 ---
 
@@ -32,7 +40,7 @@ Aplicaciones internas para negocios que necesitan algo que no existe en el merca
 
 ## 🔬 Proyectos didácticos y de afición
 
-Cosas que hago para entender por dentro tecnologías que me interesan. Aquí sí hay código público.
+Cosas que hago para entender por dentro tecnologías que me interesan.
 
 ### 🔍 semantic-search
 `Python` · `FastAPI` · público
@@ -41,7 +49,7 @@ Motor de búsqueda semántica ligero: TF-IDF con similitud cosénica y API en Fa
 
 https://github.com/SreMe1107/semantic-search
 
-### ⛏️ btc-miner
+### ⛏️ Minero de Bitcoin didáctico
 `Python`
 
 Implementación educativa de Stratum v1 y minería por CPU. Hecho para entender el protocolo desde dentro, no para minar en serio.
@@ -76,7 +84,7 @@ Asistente propio en mi VPS, con interfaz por Telegram y modelos locales vía Oll
 
 ## 📌 Sobre este perfil
 
-Buena parte de mi trabajo es de cliente o producto comercial, así que el código no está público. Lo que sí puedo enseñar son los resultados: webs funcionando, capturas de producto y cómo está montado por dentro. Los proyectos didácticos los tengo abiertos.
+Buena parte de mi trabajo es de cliente o producto comercial, así que ese código no está público. Lo que sí puedo enseñar son los resultados: webs funcionando y cómo están montadas por dentro. Estoy abriendo repositorios propios, pensados para leerse, con las herramientas que voy construyendo.
 
 ---
 
